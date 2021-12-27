@@ -1,0 +1,13 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-service-confirmation-reads/SAP_API_Caller/caller.go#L60",
+	"function": "sap-api-integrations-service-confirmation-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"ServiceConfirmation": "5000000000",
+			"PersonResponsible": "9980001941",
+			"CustMgmtPartnerIsMainPartner": true
+		}
+	],
+	"time": "2021-12-27T19:57:26.962855+09:00"
+}

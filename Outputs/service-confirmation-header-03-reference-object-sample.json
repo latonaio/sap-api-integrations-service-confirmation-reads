@@ -1,0 +1,14 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-service-confirmation-reads/SAP_API_Caller/caller.go#L67",
+	"function": "sap-api-integrations-service-confirmation-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"ServiceConfirmation": "5000000000",
+			"ServiceReferenceEquipment": "210100901",
+			"ServiceRefFunctionalLocation": "",
+			"SrvcRefObjIsMainObject": true
+		}
+	],
+	"time": "2021-12-27T19:57:27.577111+09:00"
+}

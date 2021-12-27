@@ -1,0 +1,74 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-service-confirmation-reads/SAP_API_Caller/caller.go#L81",
+	"function": "sap-api-integrations-service-confirmation-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"ServiceConfirmation": "5000000000",
+			"ServiceConfirmationItem": "10",
+			"PricingProcedureStep": "730",
+			"PricingProcedureCounter": "1",
+			"ConditionType": "DCD2",
+			"ConditionRateValue": "0.000000000",
+			"ConditionCurrency": "",
+			"ConditionQuantity": "0",
+			"ConditionQuantityUnit": ""
+		},
+		{
+			"ServiceConfirmation": "5000000000",
+			"ServiceConfirmationItem": "10",
+			"PricingProcedureStep": "65",
+			"PricingProcedureCounter": "1",
+			"ConditionType": "DPD0",
+			"ConditionRateValue": "0.000000000",
+			"ConditionCurrency": "USD",
+			"ConditionQuantity": "1",
+			"ConditionQuantityUnit": "HR"
+		},
+		{
+			"ServiceConfirmation": "5000000000",
+			"ServiceConfirmationItem": "10",
+			"PricingProcedureStep": "720",
+			"PricingProcedureCounter": "1",
+			"ConditionType": "YZWR",
+			"ConditionRateValue": "0.000000000",
+			"ConditionCurrency": "USD",
+			"ConditionQuantity": "0",
+			"ConditionQuantityUnit": ""
+		},
+		{
+			"ServiceConfirmation": "5000000000",
+			"ServiceConfirmationItem": "10",
+			"PricingProcedureStep": "20",
+			"PricingProcedureCounter": "1",
+			"ConditionType": "PPR0",
+			"ConditionRateValue": "35.000000000",
+			"ConditionCurrency": "USD",
+			"ConditionQuantity": "1",
+			"ConditionQuantityUnit": "HR"
+		},
+		{
+			"ServiceConfirmation": "5000000000",
+			"ServiceConfirmationItem": "10",
+			"PricingProcedureStep": "750",
+			"PricingProcedureCounter": "1",
+			"ConditionType": "UTXJ",
+			"ConditionRateValue": "100.000000000",
+			"ConditionCurrency": "",
+			"ConditionQuantity": "0",
+			"ConditionQuantityUnit": ""
+		},
+		{
+			"ServiceConfirmation": "5000000000",
+			"ServiceConfirmationItem": "10",
+			"PricingProcedureStep": "751",
+			"PricingProcedureCounter": "1",
+			"ConditionType": "JR1",
+			"ConditionRateValue": "4.000000000",
+			"ConditionCurrency": "",
+			"ConditionQuantity": "0",
+			"ConditionQuantityUnit": ""
+		}
+	],
+	"time": "2021-12-27T19:57:28.806707+09:00"
+}

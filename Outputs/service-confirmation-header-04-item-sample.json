@@ -1,0 +1,36 @@
+{
+	"cursor": "/Users/latona2/bitbucket/sap-api-integrations-service-confirmation-reads/SAP_API_Caller/caller.go#L74",
+	"function": "sap-api-integrations-service-confirmation-reads/SAP_API_Caller.(*SAPAPICaller).Header",
+	"level": "INFO",
+	"message": [
+		{
+			"ServiceConfirmation": "5000000000",
+			"ServiceConfirmationItem": "10",
+			"ServiceConfItemDescription": "Service",
+			"ServiceObjectType": "BUS2000117",
+			"ServiceDocumentItemObjectType": "BUS2000143",
+			"Language": "EN",
+			"Product": "SRV_01",
+			"Quantity": "1.000",
+			"QuantityUnit": "HR",
+			"ActualServiceDuration": "1.00",
+			"ActualServiceDurationUnit": "HR",
+			"ServiceConfItemCategory": "SCP1",
+			"ServiceConfItemIsCompleted": "X",
+			"ExecutingServiceEmployee": "9980001941",
+			"ServicePerformer": "",
+			"BillableControl": "",
+			"ReferenceServiceOrder": "4000000000",
+			"ReferenceServiceOrderItem": "10",
+			"ParentServiceConfItem": "0",
+			"ActualServiceStartDateTime": "/Date(1616976000000+0000)/",
+			"ActualServiceEndDateTime": "",
+			"ServicesRenderedDate": "",
+			"TimeSheetOvertimeCategory": "",
+			"RespyMgmtServiceTeam": "50006529",
+			"RespyMgmtServiceTeamName": "REPAIR_TEAM_US",
+			"to_PricingElement": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_SERVICE_CONFIRMATION_SRV/A_ServiceConfirmationItem(ServiceConfirmation='5000000000',ServiceConfirmationItem='10')/to_PricingElement"
+		}
+	],
+	"time": "2021-12-27T19:57:27.954083+09:00"
+}
