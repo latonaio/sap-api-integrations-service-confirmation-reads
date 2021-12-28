@@ -32,11 +32,6 @@
 		"RespyMgmtServiceTeam": "",
 		"RespyMgmtServiceTeamName": "",
 		"ServiceOrganization": "",
-		"HeaderPartner": {
-			"PartnerFunction": "",
-			"Customer": "",
-			"Supplier": ""
-		},
 		"PersonResponsible": {
 			"PersonResponsible": "",
 			"CustMgmtPartnerIsMainPartner": null

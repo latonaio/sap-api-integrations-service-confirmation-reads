@@ -87,11 +87,6 @@ type SDC struct {
 		RespyMgmtServiceTeam           string      `json:"RespyMgmtServiceTeam"`
 		RespyMgmtServiceTeamName       string      `json:"RespyMgmtServiceTeamName"`
 		ServiceOrganization            string      `json:"ServiceOrganization"`
-		HeaderPartner                  struct {
-			PartnerFunction string `json:"PartnerFunction"`
-			Customer        string `json:"Customer"`
-			Supplier        string `json:"Supplier"`
-		} `json:"HeaderPartner"`
 		PersonResponsible struct {
 			PersonResponsible            string      `json:"PersonResponsible"`
 			CustMgmtPartnerIsMainPartner bool        `json:"CustMgmtPartnerIsMainPartner"`
