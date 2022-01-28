@@ -90,9 +90,9 @@ func (c *SAPAPICaller) AsyncGetServiceConfirmation(serviceConfirmation string, a
 }
 ```
 ## Output  
-本マイクロサービスでは、[golang-logging-library](https://github.com/latonaio/golang-logging-library) により、以下のようなデータがJSON形式で出力されます。  
+本マイクロサービスでは、[golang-logging-library-for-sap](https://github.com/latonaio/golang-logging-library-for-sap) により、以下のようなデータがJSON形式で出力されます。  
 以下の sample.json の例は、SAP サービス確認 の ヘッダデータ が取得された結果の JSON の例です。  
-以下の項目のうち、"ServiceConfirmation" ～ "to_Item" は、/SAP_API_Output_Formatter/type.go 内 の Type Header {} による出力結果です。"cursor" ～ "time"は、golang-logging-library による 定型フォーマットの出力結果です。  
+以下の項目のうち、"ServiceConfirmation" ～ "to_Item" は、/SAP_API_Output_Formatter/type.go 内 の Type Header {} による出力結果です。"cursor" ～ "time"は、golang-logging-library-for-sap による 定型フォーマットの出力結果です。  
 
 ```
 {
@@ -107,8 +107,8 @@ func (c *SAPAPICaller) AsyncGetServiceConfirmation(serviceConfirmation string, a
 			"ServiceObjectType": "BUS2000117",
 			"Language": "EN",
 			"ServiceDocumentPriority": "0",
-			"RequestedServiceStartDateTime": "/Date(1616976000000+0000)/",
-			"RequestedServiceEndDateTime": "/Date(1617235200000+0000)/",
+			"RequestedServiceStartDateTime": "",
+			"RequestedServiceEndDateTime": "",
 			"PurchaseOrderByCustomer": "",
 			"CustomerPurchaseOrderDate": "",
 			"ServiceConfirmationIsCompleted": "X",
@@ -134,7 +134,7 @@ func (c *SAPAPICaller) AsyncGetServiceConfirmation(serviceConfirmation string, a
 			"to_Item": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_SERVICE_CONFIRMATION_SRV/A_ServiceConfirmation('5000000000')/to_Item"
 		}
 	],
-	"time": "2021-12-27T19:57:26.247263+09:00"
+	"time": "2022-01-28T18:31:00+09:00"
 }
 ```
 

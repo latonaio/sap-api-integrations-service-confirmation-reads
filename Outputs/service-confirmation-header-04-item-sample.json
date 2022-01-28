@@ -23,7 +23,7 @@
 			"ReferenceServiceOrder": "4000000000",
 			"ReferenceServiceOrderItem": "10",
 			"ParentServiceConfItem": "0",
-			"ActualServiceStartDateTime": "/Date(1616976000000+0000)/",
+			"ActualServiceStartDateTime": "",
 			"ActualServiceEndDateTime": "",
 			"ServicesRenderedDate": "",
 			"TimeSheetOvertimeCategory": "",
@@ -32,5 +32,5 @@
 			"to_PricingElement": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_SERVICE_CONFIRMATION_SRV/A_ServiceConfirmationItem(ServiceConfirmation='5000000000',ServiceConfirmationItem='10')/to_PricingElement"
 		}
 	],
-	"time": "2021-12-27T19:57:27.954083+09:00"
+	"time": "2022-01-28T18:31:02+09:00"
 }

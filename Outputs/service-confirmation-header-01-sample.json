@@ -10,8 +10,8 @@
 			"ServiceObjectType": "BUS2000117",
 			"Language": "EN",
 			"ServiceDocumentPriority": "0",
-			"RequestedServiceStartDateTime": "/Date(1616976000000+0000)/",
-			"RequestedServiceEndDateTime": "/Date(1617235200000+0000)/",
+			"RequestedServiceStartDateTime": "",
+			"RequestedServiceEndDateTime": "",
 			"PurchaseOrderByCustomer": "",
 			"CustomerPurchaseOrderDate": "",
 			"ServiceConfirmationIsCompleted": "X",
@@ -37,5 +37,5 @@
 			"to_Item": "https://sandbox.api.sap.com/s4hanacloud/sap/opu/odata/sap/API_SERVICE_CONFIRMATION_SRV/A_ServiceConfirmation('5000000000')/to_Item"
 		}
 	],
-	"time": "2021-12-27T19:57:26.247263+09:00"
+	"time": "2022-01-28T18:31:00+09:00"
 }
